@@ -2,8 +2,8 @@ import React from 'react';
 import Markdown from './Markdown';
 
 
-export default class App extends React.Component {
-  render() {
-    return <Markdown />;
-  }
-}
+const App = function App() {
+  return <Markdown />;
+};
+
+export default App;
