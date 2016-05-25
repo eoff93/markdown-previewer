@@ -1,7 +1,7 @@
 {
-  "name": "react_boilerplate",
+  "name": "markdown-previewer",
   "version": "0.0.0",
-  "description": "My react boilerplate",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
