@@ -1,8 +1,9 @@
 import React from 'react';
-import Note from './Note.jsx';
+import Markdown from './Markdown';
+
 
 export default class App extends React.Component {
   render() {
-    return <Note />;
+    return <Markdown />;
   }
 }
