@@ -1,0 +1,9 @@
+body {
+  padding-top: 30px;
+}
+
+.markdown {
+  border: 2px solid #11212A;
+  background-color: #22313F;
+  color: #ccc;
+}
