@@ -17,3 +17,5 @@ Made for freecodecamp while learning React and Sass.
 `npm start` or `npm run start` to run webpack dev server
 
 Check it out at localhost:8080
+
+Or check it out on [Codepen] (http://codepen.io/eoff/pen/EyYYNM).
